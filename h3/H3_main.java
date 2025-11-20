@@ -13,6 +13,7 @@ public class H3_main {
             System.out.println("Ungültiger Betrag");
         }
         
+        
         if (input > 0){
             for (int i =0; i < einheit[0].length; i++){
                 while (input >= einheit[0][i]){

@@ -17,6 +17,7 @@ public class H2_main {
             }
         }
         
+        
     for (int i = 8; i >= 0; i--){
         if (digits >0){
             a[i] = n % 10;
