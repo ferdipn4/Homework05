@@ -12,7 +12,6 @@ public class H1_main {
         for (int i = 0;  i < myArray.length; i++ ) {
            
             hilf[i] = myArray [(myArray.length -1 -i)]; 
-
         }
         myArray = hilf;
         System.out.println(Arrays.toString(myArray));
